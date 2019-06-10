@@ -71,8 +71,8 @@
             <iframe class="J_iframe" name="iframe0" width="100%" height="100%" src="/main" frameborder="0" data-id="/main" seamless></iframe>
         </div>
         <div class="footer">
-            <div class="pull-right">&copy; 2018 <a href="https://gitee.com/qinjianping/" target="_blank">@Apple_QJP</a>
-            </div>
+            <#--<div class="pull-right">&copy; 2018 <a href="https://gitee.com/qinjianping/" target="_blank">@Apple_QJP</a>
+            </div>-->
         </div>
     </div>
 </div>
